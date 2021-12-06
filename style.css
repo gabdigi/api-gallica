@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 1.3em;
+    
+}
+
+#datadisplay{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    
+    
+    
+}
+
+.srwrecord {
+    display: flex;
+    width: 45%;
+}
+
+
+.srwrecord h1, h2 , p{
+   margin: 15px 0 0 20px;
+}
+
+.srwrecord div img {
+    margin-top: 5px ;
+    height: 300px;
+    width: auto;
+    border: 5px solid rgb(182, 111, 29);
+    border-radius: 3px;
+}
+
+
+
